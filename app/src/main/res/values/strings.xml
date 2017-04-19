@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="R.string.errorMessage">Error</string>
+</resources>
